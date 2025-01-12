@@ -1,0 +1,11 @@
+{
+  "preset1": {
+    "message": "# @everyone discord.gg/toolshub ;]",
+    "new_server_name": "TOOLS HUB ON TOP",
+    "change_notification": true,
+    "add_admin": true,
+    "channel_name": "tools-hub",
+    "text_channel_amount": 40,
+    "voice_channel_amount": 0
+  }
+}
